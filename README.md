@@ -20,7 +20,7 @@ I'm a Software Engineer with a versatile background in **Embedded Systems (C++)*
 
 ### 🌟 Featured Projects
 
-#### ☕ [Video2Quiz](https://github.com/SweetRomeo/video2quiz)
+#### ☕ [Video2Quiz](https://github.com/SweetRomeo/Engrare-Interview-App)
 *A backend application that processes video content to generate interactive quizzes, built with Java & Spring ecosystem.*
 - **Focus:** Backend Architecture, RESTful API Design.
 - **Tech Stack:** Java, Spring Boot, Maven.
