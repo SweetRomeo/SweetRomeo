@@ -4,7 +4,7 @@ I'm a Software Engineer with a versatile background in **Embedded Systems (C++)*
 
 - 🔭 I’m currently working on building scalable backend architectures and high-performance algorithms.
 - 🌱 I’m deepening my knowledge in **Microservices** and **System Design**.
-- 💼 Former intern at **Huawei**.
+- 💼 Software Engineer at **Huawei**.
 
 ---
 
