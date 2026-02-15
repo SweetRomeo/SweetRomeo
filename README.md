@@ -32,6 +32,11 @@ I'm a Software Engineer with a versatile background in **Embedded Systems (C++)*
 - **Tech Stack:** C++, STL.
 - **Key Feature:** Custom implementation of cryptographic standards without external heavy dependencies.
 
+#### 🏛️ [Alexandria (Library Management System)](https://github.com/SweetRomeo/Alexandria)
+*A modern desktop application designed for efficient library administration, featuring a responsive GUI and persistent data storage.*
+- **Focus:** Desktop Application Development, GUI Architecture (Qt), Database Integration.
+- **Tech Stack:** C++17, Qt 6, SQLite, CMake.
+- **Key Feature:** Implements **MVC architecture** and ensures **memory safety** using modern C++ techniques (RAII & Smart Pointers).
 
 ## 🔬 Current Research: Real-Time Low-Light Image Enhancement
 I am currently working on my Master's thesis focusing on computer vision optimization.
