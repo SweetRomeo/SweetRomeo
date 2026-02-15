@@ -31,3 +31,14 @@ I'm a Software Engineer with a versatile background in **Embedded Systems (C++)*
 - **Focus:** Memory Management, Algorithmic Logic.
 - **Tech Stack:** C++, STL.
 - **Key Feature:** Custom implementation of cryptographic standards without external heavy dependencies.
+
+
+## 🔬 Current Research: Real-Time Low-Light Image Enhancement
+I am currently working on my Master's thesis focusing on computer vision optimization.
+- **Goal:** Enhancing low-light video streams in real-time.
+- **Tech Stack:** C++, Python, OpenCV, PyBind11, CMake.
+- **Highlight:** Implementing a hybrid architecture to benchmark pure Python vs. C++ accelerated modules.
+
+## 🤝 Community & Content Creation
+- **YouTube:** I create educational content on Software Development (C++, Java). [https://www.youtube.com/@BerkeSertel-g8v]
+- **Mentorship:** Actively mentoring students in C, C++ and Java Programming.
